@@ -1,0 +1,32 @@
+Immediate task list for Pipeline Segmentation Chapter
+
+a. MC Dropout uncertainty table 
+To do this, you need to modify train.py to train_mcd.py
+Table 1: Across RGB-D, RGB-DC, RGB-DNC
+
+Table 2: Across dropout ratios (Too much will kill performance on crack class)
+
+Table 3: Across fusion strategies
+
+-----
+b. ???
+
+
+Immediate task list for the BENN Chapter:
+
+a. Fill out all the inserts where you have to put in references [D]
+
+
+b. Fill out images for the regression experiments (Need server PC back up again)
+
+
+c. Fill out images for the microstructure generation experiments 
+
+
+d. Fill out beam deflection experiment results (Need server PC back up again)
+
+
+e. VERIFY TPCF algo description [imptt too] 
+
+
+f. Need to see if porosity alone is enough
